@@ -1,6 +1,15 @@
 #  Universal Vision-Language Dense Retrieval (UniVL-DR)
 There are source codes for Universal Vision-Language Dense Retrieval [Our Paper](https://openreview.net/pdf?id=PQOlkgsBsik).
 
+## Notes for running code
+Download and add the following files in the `data` folder: 
+- `all_docs.json`
+- `all_imgs.json`
+- `all_imgs_exp.json`
+- `dev.json`
+- `test.json`
+- `train.json`
+- `imgs.tsv` (very heavy)
 
 ## Requirement
 * Python==3.7

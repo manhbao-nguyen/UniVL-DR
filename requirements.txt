@@ -1,0 +1,8 @@
+torch
+transformers
+clip-by-openai
+faiss-cpu
+matplotlib
+Pillow
+tqdm
+numpy
